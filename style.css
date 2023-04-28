@@ -1,0 +1,8 @@
+.image {
+    display: flex;
+    height: 250px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-left: 100px;
+}
